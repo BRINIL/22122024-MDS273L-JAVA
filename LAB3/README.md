@@ -37,3 +37,4 @@ Display student details: The program displays the details of all students stored
 Search student details: The user can search for a student's details by name. If the details exist, the program displays the student's information.
 
 The program uses a menu-based interface to allow the user to select the desired action. The program stores the student information in two arrays: names and details. The searchName function is used to search for a student's details by name. The program uses a Scanner object to obtain user input and a switch statement to determine which action to perform based on the user's selection. The program ends when the user selects the option to exit.
+
