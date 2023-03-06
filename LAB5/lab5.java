@@ -14,13 +14,13 @@ public class lab5 {
 
             switch (option) {
                 case 1:
-                    System.out.println("Enter the message to Encrypt:");
+                    System.out.print("Enter the message to Encrypt:");
                     String plaintext = scanner.nextLine();
                     String ciphertext = cipher.encrypt(plaintext);
                     System.out.println("Encrypted message: " + ciphertext);
                     break;
                 case 2:
-                    System.out.println("Enter the message to Decrypt:");
+                    System.out.print("Enter the message to Decrypt:");
                     String ciphertext2 = scanner.nextLine();
                     String plaintext2 = cipher.decrypt(ciphertext2);
                     System.out.println("Decrypted message: " + plaintext2);
