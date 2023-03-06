@@ -3,7 +3,7 @@ Reg.No:22122024
 Email:brinil.john@msds.christuniversity.in
 Class:2 MscDs A
 
-LAB-3:QUESTION:
+LAB-4:QUESTION:
 
 Write a JAVA Menu driven program that does the following:
     You can ONLY have the below variables as global variables
