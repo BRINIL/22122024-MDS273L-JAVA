@@ -1,0 +1,14 @@
+Registration Number: 22122024
+Name: Brinil
+Email: brinil@gmail.com
+Phone Number: 9444809304
+Class: MscDsA
+Department: data science
+*********************************************
+Registration Number: 22122023
+Name: gokul
+Email: gokul@gmail.com
+Phone Number: 9444809304
+Class: MscDsA
+Department: Data Science
+*********************************************
