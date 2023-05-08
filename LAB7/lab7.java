@@ -79,7 +79,7 @@ public class lab7 {
 
     public static void main(String[] args) {
 
-        String csvFile = "Iris.csv";
+        String csvFile = "C:\\Users\\Brinil john\\Downloads\\iris.csv";
         String line = "";
         String csvDelimiter = ",";
         int numRows = 151;
@@ -155,7 +155,7 @@ public class lab7 {
         }
 
         try {
-            FileWriter writer = new FileWriter("summary.txt");
+            FileWriter writer = new FileWriter("Iris_summary.txt");
 
             writer.write("-------------------Mean-------------------" + "\n");
             writer.write("Mean of Sepal length: " + mean_arr(SepalLength) + "\n");
